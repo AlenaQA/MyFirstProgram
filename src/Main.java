@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Push it to GitHub");
 
         System.out.println("Text in alter");
+        System.out.println("7");
     }
 }
