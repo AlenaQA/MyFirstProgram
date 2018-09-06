@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Comment is changed");
         System.out.println("Push it to GitHub");
         System.out.println("Line is added");
+
+        System.out.println("Exclusive for master");
     }
 }
