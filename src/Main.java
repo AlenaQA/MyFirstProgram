@@ -6,7 +6,6 @@ public class Main {
 
         System.out.println("Text in alter");
         System.out.println("7");
-        System.out.println("Line is added");
 
         System.out.println("Exclusive for master");
     }
